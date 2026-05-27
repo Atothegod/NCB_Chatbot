@@ -1,0 +1,9 @@
+chainlit
+sqlalchemy
+psycopg2-binary
+pandas
+python-dotenv
+litellm
+requests
+dspy-ai
+google-generativeai
