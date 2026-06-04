@@ -1,6 +1,6 @@
 # Credit Bureau Assistant
 
-A small full-stack project that combines:
+A full-stack project that combines:
 
 - a Django REST API for KYC and credit-report request handling
 - a Chainlit chatbot that guides users through the request flow
